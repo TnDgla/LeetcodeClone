@@ -77,13 +77,14 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Initialize a Next.js app with TypeScript.
      - **Reading:** [Next.js TypeScript Setup](https://nextjs.org/docs/basic-features/typescript)  
-     - **Video:** [Next.js & TypeScript Setup](https://www.youtube.com/watch?v=KUnFGvjwjrk)
+     - **Video:** [Next.js & TypeScript Setup](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=176s)
+     - **Video:**[Typescript](https://www.youtube.com/watch?v=d56mG7DezGs&t=86s)
   2. Install and configure Tailwind CSS.
      - **Reading:** [Tailwind CSS Setup](https://tailwindcss.com/docs/installation)  
      - **Video:** [Tailwind CSS Setup Tutorial](https://www.youtube.com/watch?v=UBOj6rqRUME)
   3. Build a responsive navbar and homepage layout.
      - **Reading:** [Next.js Layout Guide](https://nextjs.org/docs/basic-features/layouts)  
-     - **Video:** [Building Responsive Layouts](https://www.youtube.com/watch?v=EuKrEL8bK2A)
+     - **Video:** [Building Responsive Layouts](https://www.youtube.com/watch?v=7qEyqy4TUCA)
 
 - **Deliverables:**
   - Basic project structure with a styled homepage.
@@ -95,13 +96,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Set up Firebase Authentication.
      - **Reading:** [Firebase Authentication Docs](https://firebase.google.com/docs/auth)  
-     - **Video:** [Firebase Auth Integration](https://www.youtube.com/watch?v=L9dHH-YL4Dk)
+     - **Video:** [Firebase Auth Integration](https://www.youtube.com/watch?v=WpIDez53SK4)
   2. Implement login, signup, and password reset functionality.
      - **Reading:** [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks)  
-     - **Video:** [User Authentication in React](https://www.youtube.com/watch?v=Rw4wZfTfF9w)
+     - **Video:** [User Authentication in React](https://www.youtube.com/watch?v=-d5OHgw34g4&list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C)
   3. Manage global state with Recoil.
      - **Reading:** [Recoil Documentation](https://recoiljs.org/)  
-     - **Video:** [Using Recoil in React](https://www.youtube.com/watch?v=seTB5oRW2Kk)
+     - **Video:** [Using Recoil in React](https://www.youtube.com/watch?v=KBE7Ezn7h0A&list=PLY-nQKxN_zxDCtJsUMjfb1gZ8a2PsLWxJ)
 
 - **Deliverables:**
   - Fully functional authentication system.
