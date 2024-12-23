@@ -150,7 +150,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [React Testing Tutorial](https://www.youtube.com/watch?v=8Xwq35cPwYg)
  3. Deploy the app.
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)  
-     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=8lGpZkjnkt4) 
+     - **Video:** [Deploying Next Apps](https://www.youtube.com/watch?v=8lGpZkjnkt4) 
 
 - **Deliverables:**
   - Fully functional and polished LeetCode Clone.
