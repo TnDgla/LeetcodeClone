@@ -128,11 +128,11 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Add code submission functionality and track problem-solving progress.
 - **Tasks:**
   1. Connect the editor to a solution validation API.
-     - **Reading:** [Next.js API Routes](https://nextjs.org/docs/api-routes/introduction)  
-     - **Video:** [Building APIs with Next.js](https://www.youtube.com/watch?v=FGPVFbM_EuA)
+     - **Reading:** [Next.js API Routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes)  
+     - **Video:** [Building APIs with Next.js](https://www.youtube.com/watch?v=0rC-3PyhNnI)
   2. Store problem statuses in Firebase Firestore.
      - **Reading:** [Firestore Basics](https://firebase.google.com/docs/firestore)  
-     - **Video:** [Firestore Integration](https://www.youtube.com/watch?v=Nzjz1OqD9KI)
+     - **Video:** [Firestore Integration](https://www.youtube.com/watch?v=awd_oYcmrRA)
 
 - **Deliverables:**
   - Real-time solution validation and problem status tracking.
