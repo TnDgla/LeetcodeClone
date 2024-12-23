@@ -117,7 +117,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [State Management in React](https://www.youtube.com/watch?v=35lXWvCuM8o)
   2. Set up the problem detail page with a Monaco code editor.
      - **Reading:** [Monaco Editor Guide](https://microsoft.github.io/monaco-editor/)  
-     - **Video:** [Monaco Editor Tutorial](https://www.youtube.com/watch?v=w5n-7CgCO68)
+     - **Video:** [Monaco Editor Tutorial](https://www.youtube.com/watch?v=THgBePRV13o)
 
 - **Deliverables:**
   - Problem pages with live code editor integration.
