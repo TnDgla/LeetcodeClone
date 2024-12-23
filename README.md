@@ -144,10 +144,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Enhance the UI with animations and responsive design.
      - **Reading:** [Tailwind CSS Animations](https://tailwindcss.com/docs/animation)  
-     - **Video:** [Responsive Design with Tailwind](https://www.youtube.com/watch?v=l9U3TdTBDbE)
+     - **Video:** [Responsive Design with Tailwind](https://www.youtube.com/watch?v=_9mTJ84uL1Q&t=5s)
   2. Test the app for bugs and optimize performance.
      - **Reading:** [Testing in Next.js](https://nextjs.org/docs/testing)  
      - **Video:** [React Testing Tutorial](https://www.youtube.com/watch?v=8Xwq35cPwYg)
+ 3. Deploy the app.
+     - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)  
+     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=8lGpZkjnkt4) 
 
 - **Deliverables:**
   - Fully functional and polished LeetCode Clone.
